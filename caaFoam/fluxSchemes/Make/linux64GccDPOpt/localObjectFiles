@@ -1,0 +1,4 @@
+LOCAL_OBJECTS = \
+fluxScheme.o\
+newFluxScheme.o\
+KurganovFluxScheme.o

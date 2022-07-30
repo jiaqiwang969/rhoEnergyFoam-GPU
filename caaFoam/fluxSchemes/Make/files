@@ -1,0 +1,5 @@
+fluxScheme/fluxScheme.C
+fluxScheme/newFluxScheme.C
+Kurganov/KurganovFluxScheme.C
+
+LIB = $(FOAM_USER_LIBBIN)/libFiniteVolume

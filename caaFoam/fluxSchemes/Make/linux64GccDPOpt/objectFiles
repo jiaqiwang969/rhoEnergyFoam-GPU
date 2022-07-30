@@ -1,0 +1,4 @@
+OBJECTS = \
+$(OBJECTS_DIR)/fluxScheme.o\
+$(OBJECTS_DIR)/newFluxScheme.o\
+$(OBJECTS_DIR)/KurganovFluxScheme.o

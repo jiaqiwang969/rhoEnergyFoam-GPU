@@ -1,0 +1,4 @@
+DEPENDENCIES = \
+fluxScheme/fluxScheme.dep\
+fluxScheme/newFluxScheme.dep\
+Kurganov/KurganovFluxScheme.dep

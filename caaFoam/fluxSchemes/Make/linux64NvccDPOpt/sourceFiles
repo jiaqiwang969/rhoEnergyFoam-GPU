@@ -1,0 +1,4 @@
+SOURCE = \
+fluxScheme/fluxScheme.C\
+fluxScheme/newFluxScheme.C\
+Kurganov/KurganovFluxScheme.C

@@ -1,0 +1,3 @@
+include fluxScheme/fluxScheme.dep
+include fluxScheme/newFluxScheme.dep
+include Kurganov/KurganovFluxScheme.dep
