@@ -5,4 +5,4 @@ For the progress, More information is posted here: https://github.com/Atizar/Rap
 
 
 ## caaFoam-on-progress
-which aims to reconstruct the rhoEnergyFoam-GPU in object-form
+which aims to reconstruct the rhoEnergyFoam-GPU in object-form, Ref:blastFoam & hisa
